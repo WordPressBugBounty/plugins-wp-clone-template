@@ -4,7 +4,7 @@ Tags: themes, export, exporter, backup, clone
 Requires at least: 6.0
 Tested up to: 7.0
 Requires PHP: 7.4
-Stable tag: 3.0
+Stable tag: 3.0.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -41,6 +41,9 @@ weaker `manage_options` check it used up to 2.12. You can change this with the
 `wpct_should_skip_file` filter to change that.
 
 == Changelog ==
+
+= 3.0.1 =
+* Update the plugin URI to point at the plugin landing page.
 
 = 3.0 =
 * Compatible with WordPress 7.0 and PHP 8.
@@ -94,6 +97,9 @@ weaker `manage_options` check it used up to 2.12. You can change this with the
 2. The export screen.
 
 == Upgrade Notice ==
+
+= 3.0.1 =
+Housekeeping only: updates the plugin URI. No functional changes.
 
 = 3.0 =
 Required update: 2.12 cannot be activated on PHP 8 and its export was broken. Also fixes a

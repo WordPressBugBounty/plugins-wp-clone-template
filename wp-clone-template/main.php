@@ -1,9 +1,9 @@
 <?php
 /*
 	Plugin Name: Export Themes
-	Plugin URI: https://wordpress.org/plugins/wp-clone-template/
+	Plugin URI: https://milardovich.com.ar/wordpress/
 	Description: A simple plugin to export templates in a .zip file and then install them from the same package in other servers.
-	Version: 3.0
+	Version: 3.0.1
 	Requires at least: 6.0
 	Requires PHP: 7.4
 	Author: Sergio Milardovich
